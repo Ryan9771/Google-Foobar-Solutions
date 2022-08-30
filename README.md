@@ -1,5 +1,5 @@
 ## Google Foobar Solutions
-This project is a compilation of some of the google foobar challenges.
+This project is a compilation of some of the google foobar challenge solutions.
 
 ## Solutions
 > Note: These solutions were written in Java, but google accepts solutions written in python as well.
